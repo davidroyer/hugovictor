@@ -26,7 +26,9 @@ paginate = 10
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**I'm Strata**, a super simple<br> responsive site template freebie<br> crafted by [HTML5 UP](//html5up.net)."
+
+		bio = "I love **learning** new things,<br> **growing** as a person,<br> and **expressing** through creativity."
+
 		# The icons will be shown if you enter your username
 		twitter = "spf13"
 		github = "davidroyer"
@@ -46,8 +48,8 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "This is a test for Hugo and Netlify"
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+		title = "Something you should know..."
+		content = 'As a math major, I always loved problem solving, and now enjoy the opprotunity to apply this characteristic to Web Design & Development. It’s an extraordinary feeling to push through the many iterations of creation to finally realize <strong>"That is it. That is what I want.</strong>"'
 
 
 	[params.portfolio]
