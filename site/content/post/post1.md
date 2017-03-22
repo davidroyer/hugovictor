@@ -7,3 +7,5 @@ title: Post 1
 ### Content for post1
 
 cms edit from live site
+
+from phone
